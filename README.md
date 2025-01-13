@@ -56,7 +56,7 @@ The main objective is to predict the Survived column (0 or 1) based on the other
  
 	4.	Building classification models (e.g., logistic regression, decision trees, random forests, etc.).
 
-## Preprocessing Tips
+## Preprocessing Steps
 	1.	Handle Missing Values:
 	•	Age, Cabin, and Embarked contain missing data. Consider imputation strategies.
 	2.	Feature Encoding:
