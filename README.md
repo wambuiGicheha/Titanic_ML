@@ -19,13 +19,11 @@ The sinking of the Titanic in 1912 is one of the most infamous maritime disaster
 ## Installation
 To run this project locally, ensure you have Python installed. Clone the repository and install the required packages using pip:
 
- 	git clone https://github.com/yourusername/titanic-survival-analysis.git
+ 	git clone https://github.com/wambuiGicheha/titanic-survival-analysis.git
 
 	cd titanic-survival-analysis
 
-	pip install -r requirements.txt
 
-The requirements.txt file includes all necessary libraries such as pandas, numpy, matplotlib, seaborn, and scikit-learn.
 
 ## Usage
 After installation, you can run the analysis scripts or Jupyter notebooks provided in the repository. For example, to start the Jupyter notebook:
@@ -38,9 +36,10 @@ This will open the notebook in your default web browser, allowing you to interac
 ## Dataset_Contents
 
 The Titanic dataset comes in two CSV files:
-	1.	train.csv: Used for training a machine learning model. It contains both features and the target variable (Survived).
 
-	2.	test.csv: Used for testing model predictions. It contains the same features as the training set, except for the Survived column
+1.	train.csv: Used for training a machine learning model. It contains both features and the target variable (Survived).
+
+2.	test.csv: Used for testing model predictions. It contains the same features as the training set, except for the Survived column
 
 ## Features
 
@@ -77,28 +76,21 @@ Embarked	Port of embarkation: C = Cherbourg, Q = Queenstown, S = Southampton	Str
 
 The main objective is to predict the Survived column (0 or 1) based on the other features. This involves:
 
-	1.	Data cleaning and preprocessing.
- 
-	2.	Exploratory data analysis (EDA).
- 
-	3.	Feature engineering (e.g., dealing with missing values, creating new features).
- 
-	4.	Building classification models (e.g., logistic regression, decision trees, random forests, etc.).
-
-	5. Insights Extraction: Deriving meaningful conclusions from the analysis.
+1.	Data cleaning and preprocessing. 
+2.	Exploratory data analysis (EDA).
+3.	Feature engineering (e.g., dealing with missing values, creating new features).
+4.	Building classification models (e.g., logistic regression, decision trees, random forests, etc.).
+5. Insights Extraction: Deriving meaningful conclusions from the analysis.
 
 ## Preprocessing Steps
-	1.	Handle Missing Values:
-	•	Age, Cabin, and Embarked contain missing data. Consider imputation strategies.
-	2.	Feature Encoding:
-	•	Convert categorical variables like Sex and Embarked into numerical format using techniques such as one-hot encoding.
-	3.	Scaling:
-	•	Normalize numerical features like Age and Fare for models sensitive to feature scaling.
-	4.	Feature Selection:
-	•	Some features like PassengerId and Ticket may not add predictive value and can be excluded.
-	5. 	Binary Classification: Predict survival probability for passengers.
-	6. 	Feature Engineering: Explore new features such as family size (SibSp + Parch + 1) or title extraction from the Name column.
-	7. 	Model Comparison: Compare different machine learning models for performance metrics like accuracy, precision, recall, and F1-score.
+
+1.	Handle Missing Values: Age, Cabin, and Embarked contain missing data.
+2.	Feature Encoding: Convert categorical variables like Sex and Embarked into numerical format using techniques such as one-hot encoding.
+3.	Scaling: Normalize numerical features like Age and Fare for models sensitive to feature scaling.
+4.	Feature Selection: Some features like PassengerId and Ticket may not add predictive value and can be excluded.
+5. 	Binary Classification: Predict survival probability for passengers.
+6. 	Feature Engineering: Explore new features such as family size (SibSp + Parch + 1) or title extraction from the Name column.
+7. 	Model Comparison: Compare different machine learning models for performance metrics like accuracy, precision, recall, and F1-score.
 
 ## Contributing
 
