@@ -19,10 +19,11 @@ The sinking of the Titanic in 1912 is one of the most infamous maritime disaster
 ## Installation
 To run this project locally, ensure you have Python installed. Clone the repository and install the required packages using pip:
 
- git clone https://github.com/yourusername/titanic-survival-analysis.git
+ 	git clone https://github.com/yourusername/titanic-survival-analysis.git
 
-cd titanic-survival-analysis
-pip install -r requirements.txt
+	cd titanic-survival-analysis
+
+	pip install -r requirements.txt
 
 The requirements.txt file includes all necessary libraries such as pandas, numpy, matplotlib, seaborn, and scikit-learn.
 
