@@ -45,7 +45,7 @@ The Titanic dataset comes in two CSV files:
 
 Below are the columns found in the dataset:
 
-## Column Name	Description	Data Type	Example Values
+### Column Name	Description	Data Type Example Values
 
 PassengerId	Unique identifier for each passenger	Integer	1, 2, 3
 
@@ -105,3 +105,8 @@ This project serves as a foundational exercise in data analysis and machine lear
 ## Reference
 
 For more details and to access the dataset, visit the Kaggle Titanic Competition
+	https://businessday.ng/opinion/article/modernizing-maritime-safety-protocols-to-prevent-disasters/?utm_source=chatgpt.com#google_vignette
+	https://hal.science/hal-04021179/document?utm_source=chatgpt.com
+	https://www.kaggle.com/code/startupsci/titanic-data-science-solutions?utm_source=chatgpt.com
+	https://medium.com/%40Splendor001/titanic-survival-analysis-43ecbcc86c51
+
