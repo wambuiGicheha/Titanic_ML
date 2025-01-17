@@ -19,7 +19,8 @@ The sinking of the Titanic in 1912 is one of the most infamous maritime disaster
 ## Installation
 To run this project locally, ensure you have Python installed. Clone the repository and install the required packages using pip:
 
-git clone https://github.com/yourusername/titanic-survival-analysis.git
+ git clone https://github.com/yourusername/titanic-survival-analysis.git
+
 cd titanic-survival-analysis
 pip install -r requirements.txt
 
@@ -37,13 +38,14 @@ This will open the notebook in your default web browser, allowing you to interac
 
 The Titanic dataset comes in two CSV files:
 	1.	train.csv: Used for training a machine learning model. It contains both features and the target variable (Survived).
+
 	2.	test.csv: Used for testing model predictions. It contains the same features as the training set, except for the Survived column
 
 ## Features
 
 Below are the columns found in the dataset:
 
-Column Name	Description	Data Type	Example Values
+## Column Name	Description	Data Type	Example Values
 
 PassengerId	Unique identifier for each passenger	Integer	1, 2, 3
 
