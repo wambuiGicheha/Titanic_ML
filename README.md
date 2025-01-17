@@ -98,8 +98,11 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 
 ## Acknowledgments
 Kaggle for providing the Titanic dataset.
+
 Analytics Vidhya for the comprehensive guide on analyzing the Titanic dataset.
+
 GeeksforGeeks for the tutorial on Titanic survival prediction using machine learning.
+
 This project serves as a foundational exercise in data analysis and machine learning, providing insights into the factors that influenced survival during the Titanic disaster.
 
 ## References
