@@ -102,11 +102,13 @@ Analytics Vidhya for the comprehensive guide on analyzing the Titanic dataset.
 GeeksforGeeks for the tutorial on Titanic survival prediction using machine learning.
 This project serves as a foundational exercise in data analysis and machine learning, providing insights into the factors that influenced survival during the Titanic disaster.
 
-## Reference
+## References
 
-For more details and to access the dataset, visit the Kaggle Titanic Competition
 	https://businessday.ng/opinion/article/modernizing-maritime-safety-protocols-to-prevent-disasters/?utm_source=chatgpt.com#google_vignette
+
 	https://hal.science/hal-04021179/document?utm_source=chatgpt.com
+
 	https://www.kaggle.com/code/startupsci/titanic-data-science-solutions?utm_source=chatgpt.com
+
 	https://medium.com/%40Splendor001/titanic-survival-analysis-43ecbcc86c51
 
